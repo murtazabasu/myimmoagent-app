@@ -46,3 +46,6 @@ Profitability ultimately depends on volume and efficiency. In a busy city, if yo
 
 ## Conclusion
 In summary, your apartment-viewing concierge concept taps a real pain point in Germany’s tight rental market: time-poor tenants facing high competition. By leveraging tech (ImmoScout24 API: api.immobilienscout24.de) and acting as a trusted proxy, you can differentiate your service. Profitability hinges on getting enough clients and maintaining efficiency (your €33-per-visit fee is low, so volume is key). Key considerations include landlords’ demand for face-to-face vetting, legal compliance (real-estate brokerage rules, data/privacy), and clear value for both renters and owners (save their time too). Many elements are manageable, but success will depend on execution: strong marketing to the target segment, careful scheduling/communication, and maybe partnering with relocators or firms. Overall, it can be viable as a niche service – especially if you start small (Essen) to test, then iterate pricing and process. With careful planning of costs, commitments, and regulatory compliance, it has the potential to be profitable as you scale.
+
+
+test commit
