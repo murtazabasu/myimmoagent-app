@@ -1,0 +1,1 @@
+34c_gewo_info: https://www.anwalt24.de/gesetze/gewo/34c
